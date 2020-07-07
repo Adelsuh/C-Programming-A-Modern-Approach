@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520860252 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-11\printdate.c
+	<stdio.h>
+	<string.h>
+

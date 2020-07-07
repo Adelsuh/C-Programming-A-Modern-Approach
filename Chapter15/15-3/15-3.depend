@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1493462557 source:c:\adel\programming\chapter15\15-3\qsort.c
+	<stdio.h>
+	"quicksort.h"
+
+1493462557 c:\adel\programming\chapter15\15-3\quicksort.h
+
+1493462557 source:c:\adel\programming\chapter15\15-3\quicksort.c
+	"quicksort.h"
+

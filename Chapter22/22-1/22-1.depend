@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518435215 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-1\canopen.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519638647 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-10\22-10.c
+	<stdio.h>
+	<stdlib.h>
+	"readline.h"
+
+1519632602 c:\users\lenovo\desktop\adel\programming\chapter22\22-10\readline.h
+
+1519632602 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-10\readline.c
+	<ctype.h>
+	<stdio.h>
+	"readline.h"
+

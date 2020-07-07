@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518595456 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-7\a\compress_file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1527059606 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-15\justify.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"line.h"
+	"word.h"
+
+1527059475 c:\users\lenovo\desktop\adel\programming\chapter22\22-15\line.h
+
+1527059475 c:\users\lenovo\desktop\adel\programming\chapter22\22-15\word.h
+
+1527059463 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-15\line.c
+	<stdio.h>
+	<string.h>
+	"line.h"
+
+1527059463 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-15\word.c
+	<stdio.h>
+	"word.h"
+

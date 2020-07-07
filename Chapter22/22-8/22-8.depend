@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519048829 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-8\inventory.c
+	<stdio.h>
+	<stdlib.h>
+	"readline.h"
+
+1519046648 c:\users\lenovo\desktop\adel\programming\chapter22\22-8\readline.h
+
+1519046688 source:c:\users\lenovo\desktop\adel\programming\chapter22\22-8\readline.c
+	<ctype.h>
+	<stdio.h>
+	"readline.h"
+

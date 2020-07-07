@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493463866 source:c:\adel\programming\chapter15\15-5\untitled1.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1493463866 c:\adel\programming\chapter15\15-5\stack.h
+
+1493463866 source:c:\adel\programming\chapter15\15-5\stack.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+

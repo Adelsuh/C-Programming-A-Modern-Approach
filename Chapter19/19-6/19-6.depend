@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1503321364 source:c:\adel\programming\chapter19\19-6\queueadt.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1503321364 c:\adel\programming\chapter19\19-6\queue.h
+
+1503321364 source:c:\adel\programming\chapter19\19-6\queueclient.c
+	<stdio.h>
+	"queue.h"
+

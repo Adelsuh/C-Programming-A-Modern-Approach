@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503318893 source:c:\adel\programming\chapter19\19-4\stackclient.c
+	<stdio.h>
+	"stackADT.h"
+
+1503319042 c:\adel\programming\chapter19\19-4\stackadt.h
+	<stdbool.h>
+
+1503319219 source:c:\adel\programming\chapter19\19-4\stackadt3.c
+	<stdio.h>
+	<stdlib.h>
+	"stackADT.h"
+

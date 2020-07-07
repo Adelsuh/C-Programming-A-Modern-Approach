@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1494573412 source:c:\adel\programming\chapter15\17-4\word.c
+	<stdio.h>
+	"word.h"
+
+1494573412 c:\adel\programming\chapter15\17-4\word.h
+
+1495018839 source:c:\adel\programming\chapter15\17-4\line.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"line.h"
+
+1494573412 c:\adel\programming\chapter15\17-4\line.h
+
+1495018352 source:c:\adel\programming\chapter15\17-4\untitled3.c
+	<string.h>
+	"line.h"
+	"word.h"
+
+1497857106 source:c:\adel\programming\chapter17\17-4\untitled3.c
+	<string.h>
+	"line.h"
+	"word.h"
+
+1494573412 c:\adel\programming\chapter17\17-4\line.h
+
+1496365064 c:\adel\programming\chapter17\17-4\word.h
+
+1496365064 source:c:\adel\programming\chapter17\17-4\word.c
+	<stdio.h>
+	"word.h"
+
+1497857227 source:c:\adel\programming\chapter17\17-4\line.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"line.h"
+

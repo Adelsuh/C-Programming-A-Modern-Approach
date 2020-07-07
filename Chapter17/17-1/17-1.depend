@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1494550044 source:c:\adel\programming\chapter15\17-1\readline.c
+	<ctype.h>
+	<stdio.h>
+	"readline.h"
+
+1494550044 c:\adel\programming\chapter15\17-1\readline.h
+

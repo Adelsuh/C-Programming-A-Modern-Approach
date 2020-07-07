@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533255474 source:c:\users\lenovo\desktop\adel\programming\c\chapter26\26-5\untitled2.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+

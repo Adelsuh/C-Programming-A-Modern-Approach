@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493644422 source:c:\adel\programming\chapter15\16-2\inventory.c
+	<stdio.h>
+	"functions.h"
+
+1493645098 c:\adel\programming\chapter15\16-2\functions.h
+
+1493645611 source:c:\adel\programming\chapter15\16-2\functions.c
+	<stdio.h>
+	<ctype.h>
+	<stdio.h>
+	"functions.h"
+
+1493644522 source:c:\adel\programming\chapter15\16-2\qsort.c
+

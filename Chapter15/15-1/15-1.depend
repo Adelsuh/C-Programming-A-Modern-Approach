@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493460510 source:c:\adel\programming\chapter15\15-1\line.c
+	<stdio.h>
+	<string.h>
+	"line.h"
+
+1493460510 c:\adel\programming\chapter15\15-1\line.h
+
+1493460510 source:c:\adel\programming\chapter15\15-1\untitled1.c
+	<string.h>
+	"line.h"
+	"word.h"
+
+1493460510 c:\adel\programming\chapter15\15-1\word.h
+
+1493460510 source:c:\adel\programming\chapter15\15-1\word.c
+	<stdio.h>
+	"word.h"
+

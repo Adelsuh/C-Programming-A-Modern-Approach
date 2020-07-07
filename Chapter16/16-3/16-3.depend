@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1493645787 source:c:\adel\programming\chapter15\16-3\readline.c
+	<ctype.h>
+	<stdio.h>
+	"readline.h"
+
+1493645787 c:\adel\programming\chapter15\16-3\readline.h
+
+1493648183 source:c:\adel\programming\chapter15\16-3\inventory.c
+	<stdio.h>
+	"readline.h"
+
+1493648810 source:c:\adel\programming\chapter16\16-3\inventory.c
+	<stdio.h>
+	"readline.h"
+
+1493645787 c:\adel\programming\chapter16\16-3\readline.h
+
+1493645787 source:c:\adel\programming\chapter16\16-3\readline.c
+	<ctype.h>
+	<stdio.h>
+	"readline.h"
+

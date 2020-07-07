@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471779642 source:c:\adel\programming\chapter8\8-9\untitled2.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
